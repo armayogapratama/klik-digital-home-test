@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "management_name": "BNI",
+    "group_id": 1
+  },
+  {
+    "id": 5,
+    "management_name": "BCA",
+    "group_id": 3
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Tingki Wingki",
+    "username": "tingkiwingki",
+    "email": "tingkiwingki@gmail.com",
+    "password": "123456789"
+  },
+  {
+    "id": 2,
+    "name": "Dipsi",
+    "username": "dipsi",
+    "email": "dipsi@gmail.com",
+    "password": "123456789"
+  }
+]
